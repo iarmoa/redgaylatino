@@ -1,0 +1,112 @@
+[    
+    {
+        "id":  8,
+        "title": {
+            "es":"Institutional GayLatino 2022"
+        },
+        "url": {
+            "es": "/redgaylatino_images/manuales/red-gaylatino-2022-en.pdf"
+        },
+        "excerpt": {
+            "es":"What is GayLatino?"
+        },
+        "image": "gaylatino-publicaciones-01.jpg",
+        "file": "https://www.redgaylatino.org/redgaylatino_images/manuales/red-gaylatino-2022-en.pdf"
+    },
+    {
+        "id":  6,
+        "title": {
+            "es":"Institucional GayLatino 2022"
+        },
+        "url": {
+            "es": "/redgaylatino_images/manuales/red-gaylatino-2022.pdf"
+        },
+        "excerpt": {
+            "es":"Les activistas gays de América Latina y el Caribe unimos fuerzas"
+        },
+        "image": "gaylatino-publicaciones-01.jpg",
+        "file": "https://www.redgaylatino.org/redgaylatino_images/manuales/red-gaylatino-2022.pdf"
+    },
+    {
+        "id":  7,
+        "title": {
+            "es":"El futuro del financiamiento del VIH"
+        },
+        "url": {
+            "es": "/redgaylatino_images/manuales/El-futuro-del-financiamiento-del-VIH"
+        },
+        "excerpt": {
+            "es": "Diálogos comunitarios sobre sostenibilidad, transición y cofinanciamiento con hombres gays y bisexuales en Latinoamérica y El Caribe"
+        },
+        "image": "gaylatino-publicaciones-02.jpg",
+        "file": "https://www.redgaylatino.org/redgaylatino_images/manuales/gaylatino-2020-dialogos-comunitarios.pdf"
+    },
+    {
+        "id":  3,
+        "title": {
+            "es":"Manuales enciclopedia LGBTI+ Cristianismo"
+        },
+        "url": {
+            "es": "/redgaylatino_images/manuales/manualcris.pdf"
+        },
+        "excerpt": {
+            "es":"Manual enciclopedia LGBTI+ Cristianismo en Portugues"
+        },
+        "image": "gaylatino-publicaciones-03.jpg",
+        "file": "https://www.redgaylatino.org/redgaylatino_images/manuales/manualcris.pdf"
+    },
+    {
+        "id":  4,
+        "title": {
+            "es":"Manuales enciclopedia LGBTI+ Comunicacion"
+        },
+        "url": {
+            "es": "/redgaylatino_images/manuales/manualcomu.pdf"
+        },
+        "excerpt": {
+            "es":"Manual enciclopedia LGBTI+ Comunicacion en Portugues"
+        },
+        "image": "gaylatino-publicaciones-04.jpg",
+        "file": "https://www.redgaylatino.org/redgaylatino_images/manuales/manualcomu.pdf"
+    },
+    {
+        "id":  5,
+        "title": {
+            "es":"Manuales enciclopedia LGBTI+ Educacion"
+        },
+        "url": {
+            "es": "/redgaylatino_images/manuales/manualeduc.pdf"
+        },
+        "excerpt": {
+            "es":"Manual enciclopedia LGBTI+ Comunicacion en Portugues"
+        },
+        "image": "gaylatino-publicaciones-05.jpg",
+        "file": "https://www.redgaylatino.org/redgaylatino_images/manuales/manualeduc.pdf"
+    },
+    {
+        "id":  1,
+        "title": {
+            "es":"Institucional GayLatino"
+        },
+        "excerpt": {
+            "es":"GayLatino busca ser una red en movimiento, abierta a nuevas personas y formas de trabajar; ágil, críticamente reflexiva, solidaria y colaborativa en la forma de trabajar para evolucionar con el tiempo, maximizando nuestra relevancia e impacto en el esfuerzo global para abordar el VIH con, entre y para los varones gays latinos."
+        },
+        "url": {
+            "es": "Institucional-GayLatino"
+        },
+        "file": "https://www.redgaylatino.org/redgaylatino_images/manuales/institucional.pdf"
+    },
+    {
+        "id":  2,
+        "title": {
+            "es":"Sumario Ejecutivo: Encuentro GayLatino Curitiba 2015"
+        },
+        "url": {
+            "es": "Sumario-Ejecutivo-Encuentro-GayLatino-Curitiba-2015"
+        },
+        "excerpt": {
+            "es":"Durante tres días del presente mes se dieron cita en la ciudad de Curitiba, Brasil, más de 60 activistas gays latinos en el Primer Encuentro Regional GayLatino. Provenientes de Argentina, Bolivia, Brasil, Chile, Colombia, Estados Unidos, Guatemala, México, Nicaragua, Paraguay, Perú y Uruguay, trabajan para garantizar el respeto por los derechos humanos de las personas del colectivo LGTBI (Lesbianas, Gays, Transexuales, Bisexuales e Intersexuales) y su comunidad, la respuesta ante el VIH y otros temas relacionados a la diversidad sexual."
+        },
+        "file": "https://www.redgaylatino.org/redgaylatino_images/manuales/INFORMEespanhol.pdf"
+    }
+]

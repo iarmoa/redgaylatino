@@ -1,0 +1,230 @@
+[
+    {
+        "id": 1,
+        "title": "Inicio",
+        "link": "/",
+        "megaMenu": false
+    },
+    {
+        "id": 2,
+        "title": "Gay Latino",
+        "link": "/",
+        "megaMenu": false,
+        "subMenu": [
+            {
+                "id": 2.1,
+                "title": "Sobre la red",
+                "link": "/gay-latino"
+            },
+            {
+                "id": 2.2,
+                "title": "Qué es GayLatino",
+                "link": "/quienes-somos"
+            },
+            {
+                "id": 2.3,
+                "title": "Juventudes GayLatino",
+                "link": "/juventudes-gaylatino"
+            },
+            {
+                "id": 2.4,
+                "title": "Cómo colaborar",
+                "link": "/colaborar",
+                "subMenu": [
+                    {
+                        "id": "2.4.1",
+                        "title": "Foro Regional",
+                        "link": "/foro-regional"
+                    },
+                    {
+                        "id": "2.4.2",
+                        "title": "Consejo Asesor",
+                        "link": "/consejo-asesor"
+                    },
+                    {
+                        "id": "2.4.3",
+                        "title": "Grupos de referencia",
+                        "link": "/grupos-referencias"
+                    },
+                    {
+                        "id": "2.4.4",
+                        "title": "Comités locales",
+                        "link": "/comites-locales"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Encuentros",
+        "link": "/",
+        "megaMenu": false,
+        "subMenu": [
+            {
+                "id": 3.1,
+                "title": "Curitiba 2019",
+                "link": "/encuentros/curitiba-2019"
+            },
+            {
+                "id": 3.2,
+                "title": "Villeta 2018",
+                "link": "/encuentros/villeta-2018"
+            },
+            {
+                "id": 3.3,
+                "title": "Rosario 2017",
+                "link": "/encuentros/rosario-2017"
+            },
+            {
+                "id": 3.4,
+                "title": "CDMX 2016",
+                "link": "/encuentros/cdmx-2016"
+            },
+            {
+                "id": 3.5,
+                "title": "Curitiba 2015",
+                "link": "/encuentros/curitiba-2015"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Países",
+        "link": "/",
+        "colsTitle": "Países",
+        "itemsPerCol": 7,
+        "megaMenu": true,
+        "subMenu": [
+            {
+                "id": 4.1,
+                "title": "Argentina",
+                "link": "/paises/argentina"
+            },
+            {
+                "id": 4.2,
+                "title": "Belice",
+                "link": "/paises/belice"
+            },
+            {
+                "id": 4.3,
+                "title": "Bolivia",
+                "link": "/paises/bolivia"
+            },
+            {
+                "id": 4.4,
+                "title": "Brasil",
+                "link": "/paises/brasil"
+            },
+            {
+                "id": 4.5,
+                "title": "Chile",
+                "link": "/paises/chile"
+            },
+            {
+                "id": 4.6,
+                "title": "Colombia",
+                "link": "/paises/colombia"
+            },
+            {
+                "id": 4.7,
+                "title": "Costa Rica",
+                "link": "/paises/costa-rica"
+            },
+            {
+                "id": 4.8,
+                "title": "Cuba",
+                "link": "/paises/cuba"
+            },
+            {
+                "id": 4.9,
+                "title": "EEUU",
+                "link": "/paises/eeuu"
+            },
+            {
+                "id": 4.10,
+                "title": "Ecuador",
+                "link": "/paises/ecuador"
+            },
+            {
+                "id": 4.11,
+                "title": "El Salvador",
+                "link": "/paises/el-salvador"
+            },
+            {
+                "id": 4.12,
+                "title": "Guatemala",
+                "link": "/paises/guatemala"
+            },
+            {
+                "id": 4.13,
+                "title": "Honduras",
+                "link": "/paises/honduras"
+            },
+            {
+                "id": 4.14,
+                "title": "México",
+                "link": "/paises/mexico"
+            },
+            {
+                "id": 4.15,
+                "title": "Nicaragua",
+                "link": "/paises/nicaragua"
+            },
+            {
+                "id": 4.16,
+                "title": "Panamá",
+                "link": "/paises/panama"
+            },
+            {
+                "id": 4.17,
+                "title": "Paraguay",
+                "link": "/paises/paraguay"
+            },
+            {
+                "id": 4.18,
+                "title": "Perú",
+                "link": "/paises/peru"
+            },
+            {
+                "id": 4.19,
+                "title": "República Dominicana",
+                "link": "/paises/republica-dominicana"
+            },
+            {
+                "id": 4.20,
+                "title": "Uruguay",
+                "link": "/paises/uruguay"
+            },
+            {
+                "id": 4.21,
+                "title": "Venezuela",
+                "link": "/paises/venezuela"
+            }            
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Noticias",
+        "link": "/news",
+        "megaMenu": false
+    },
+    {
+        "id": 6,
+        "title": "Publicaciones",
+        "link": "/publications",
+        "megaMenu": false
+    },
+    {
+        "id": 7,
+        "title": "Campañas",
+        "link": "/campaigns",
+        "megaMenu": false
+    },
+    {
+        "id": 8,
+        "title": "Contacto",
+        "link": "/",
+        "megaMenu": false
+    }               
+]

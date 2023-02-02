@@ -1,0 +1,25 @@
+{
+    "alep": {
+        "projectName": "ALEP",
+        "currentCalls": [
+            {
+                "id": 1,
+                "title": "Referentes Comunicación Redes 2022",
+                "logo": "HIVOS.jpg",
+                "urlId": "https://docs.google.com/document/d/1UzkkaxeQFAf8nd1xiy_T9Qrc1T2abhJt"
+            }
+        ]
+    },
+    "redGayLatino": {
+        "projectName": "Red GayLatino",
+        "currentCalls": [
+            {
+                "id": 2,
+                "title": "Convocatoria a miembros y titulares alternos",
+                "label": "Convocatoria a miembros y titulares alternos para el comité directivo de la Red Gaylatino en Panamá, Costa Rica, El Salvador, Guatemala así como alternos en: Belice, Honduras, Nicaragua y México",
+                "logo": "gay-latino.png",
+                "urlId": "https://drive.google.com/file/d/1IfGjY23anMYUetB6ZqKsGVipV9rFWEOB/view?usp=sharing"
+            }
+        ]
+    }
+}

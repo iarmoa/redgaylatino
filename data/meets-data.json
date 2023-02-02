@@ -1,0 +1,140 @@
+[
+    {  
+        "id": 6,
+        "image": null,
+        "region": "all", 
+        "country": "all",
+        "title": {
+            "es": "Bogota 2022"
+        },  
+        "excerpt": {
+            "es": "Entre el 29 y el 31 de enero de 2022, los activistas de GayLatino se reunieron por primera vez en medio de la pandemia de COVID-19."
+        },
+        "body": {
+            "es": "<p>El encuentro, realizado de manera presencial y virtual en la ciudad de Bogotá, contó con la presencia de los miembros del Comité Ejecutivo:  Esteban Paulón (Argentina), Simón Cazal (Paraguay), Ronald Céspedes (Bolivia), Toni Reis (Brasil), Jorge Saavedra (EE.UU. y México) y Charlie Dos Veces López (México). Participaron además Jorge Pacheco, del Consejo Asesor de GayLatino, Brayan Rodríguez Anillo y José Salcedo, del Grupo de Referencia de Juventudes de GayLatino en Colombia. En esta oportunidad contamos con la participación y el apoyo de LigaSida Colombia.</p><p>En un contexto de crisis sanitaria, y sus múltiples consecuencias socioeconómicas en nuestros países, GayLatino redobla esfuerzos en el 2022. La pandemia contribuye a vulnerabilizar aún más a nuestras poblaciones, ocasionando además que la respuesta al VIH y a otras ITS quede más relegada. Es por este motivo que tratamos puntos importantes como:</p><ul><li>Proyectos subregionales de GayLatino en Latinoamérica y alianzas estratégicas</li><li>Proyecto multipaís con el Consorcio ALEP y Poblaciones Clave</li><li>Desarrollo de un instrumento para diagnóstico y mapeo en la región</li></ul>"
+        },
+        "urlId": [
+            "bogota-2022"  
+        ],  
+        "visible": true,
+        "url": {
+            "es": "bogota-2022"
+        },
+        "tempId": "bogota-2022"
+    },
+    {  
+        "id": 5,  
+        "image": null,  
+        "region": "all",  
+        "country": "all",  
+        "title": {
+            "es": "Curitiba 2019"
+        },  
+        "excerpt": {
+            "es": "El quinto encuentro de la red de activistas GayLatino tendrá lugar en Curitiba en el marco del primer Congreso Internacional LGBTI+ que tendrá lugar en noviembre en Brasil del 13 al 15 de noviembre."
+        },  
+        "body": {
+            "es": "<h3>¿Por qué participamos en el Congreso Internacional LGBTI+ junto a otras organizaciones?</h3><p>Creemos en la importancia de la articulación en redes con otras organizaciones LGBTI+ de la región para monitorear e identificar respuestas a la situación de los derechos humanos de nuestros colectivos. Buscamos de esta manera unir esfuerzos para relevar, monitorear y responder a la situación de personas LGBTI+ de toda América Latina y el Caribe desde una perspectiva de movimientos sociales, en asociación con la academia, empresas, gobiernos y agencias de cooperación.</p><p>Discutiremos y abordaremos estrategias conjuntas para las áreas más prioritarias de las personas LGBTI+ de América Latina y el Caribe:</p><h3>Violación de derechos humanos</h3><p>Un importante desafío es la falta de estadísticas sobre la violencia a las personas LGBTI+ en la región, hecho señalado por la Asociación Internacional de Lesbianas, Gays, Bisexuales, Transexuales e Intersexuales (ILGA).</p><p>En este encuentro discutiremos experiencias de enfrentamiento de violencia contra personas LGBTI+ así como estrategias para instituir su criminalización. </p><h3>Salud integral, incluido el VIH</h3><p>Los hombres gays y las mujeres trans son las poblaciones más afectadas por el VIH en la región. En cuanto a los hombres gay y HSH, más de la mitad no conoce su estado serológico y el uso del preservativo es bajo. El estigma y la discriminación obstaculizan el acceso a la salud de nuestras poblaciones claves. Así mismo, países como Venezuela, Honduras, Nicaragua y Argentina están desabastecidos en la provisión de medicamentos antirretrovirales. </p><h3>La educación</h3><p>Las escuelas en América Latina son ambientes hostiles para los estudiantes LGBTI+, con una importante violencia en contra de la niñez y adolescencia LGBTI+. De acuerdo a un estudio realizado entre el 2015/2016 en Argentina, Brasil, Chile, Colombia, México, Perú y Uruguay, los estudiantes LGBTI+ padecen diferentes tipos de violencia y discriminación.</p><p>La violencia y discriminación vividas en la etapa escolar tiene consecuencias en la salud mental y la calidad de vida de las personas LGBTI+ el resto de sus vidas, por eso consideramos la educación como una prioridad para nuestro movimiento.</p><h3>Identidad de género</h3><p>Las personas trans en la mayor parte de la región no tienen acceso a un derecho básico y elemental como la identidad. Sin documentos, tienen denegado el acceso a todos los demás derechos humanos: salud, educación, vivienda, trabajo digno, etc. </p><h3>La inclusión en el mercado de trabajo y la empleabilidad</h3><p>Especialmente para las personas trans, en especial mujeres, quienes están excluidas del mundo laboral. Todavía hay poca documentación al respecto en América latina y el Caribe. No obstante, en Brasil algunas empresas del Foro de Empresas y Derechos LGBT están iniciando esta forma de inclusión. Creemos que es necesario promover la calificación académica de más personas trans y promover su inclusión en el mercado laboral. </p><h3>Asociación con empresas y la Academia</h3><p>Buscamos construir puentes de diálogo para mejorar las condiciones de vida de las personas LGBTI+. Propiciamos así más oportunidades de empleo, de desarrollo, así como mayor conocimiento e investigación para el ejercicio pleno de nuestros derechos humanos. </p>"  
+        },  
+        "urlId": [
+            "curitiba-2019"  
+        ],  
+        "visible": true,
+        "url": {
+            "es": "curitiba-2019"
+        },
+        "tempId": "curitiba-2019"
+    },
+    {  
+        "id": 4,  
+        "image": null,  
+        "region": "all",  
+        "country": "all",  
+        "title": {
+            "es": "Villeta 2018"
+        },  
+        "excerpt": {
+            "es": "Los días 5 y 6 de octubre del 2018 el Comité Ejecutivo de GayLatino se reunió en su nueva sede oficial ubicada en la ciudad de Villeta (Paraguay) a 30 kilómetros de la capital paraguaya."
+        },  
+        "body": {
+            "es": "<p>Estuvieron presentes Simón Cazal (Paraguay), secretario ejecutivo, Norman Gutiérrez (Nicaragua), tesorero, Gustavo Valdés (Cuba), y como vocales Toni Reis (Brasil) y Jorge Saavedra (México). Del Comité Directivo estuvieron presentes Javier Medina (Honduras) , Douglas Tejeda (Guatemala), William Hernández (El Salvador) y Carlos García de León (México).</p><p></ul><li>La red desarrolló líneas de acción para hacer frente a la homofobia y contribuir a detener el avance de movimientos anti-derechos en la región.</li><li>GayLatino también analizó diferentes mecanismos para hacer frente a desafíos y respuestas en materia de discriminación y acceso a servicios de salud para hombres gays latinos entre el 2019 y 2021. </li><li>La red revisó y actualizó su Plan Estratégico Integral 2017-2021, logrando así un insumo clave para sostener y priorizar las acciones. </li></ul></p><p>En este 2018 nos reafirmamos en nuestro propósito de:<ul><li><strong>Promover políticas públicas que garanticen el acceso a servicios de salud<strong> entendidos éstos como la promoción, prevención, detección, diagnóstico y atención de calidad, que respondan a las necesidades específicas de salud y bienestar de hombres gays y otros hombres que tienen sexo con hombres de la región latinoamericana y del Caribe hispano, para las infecciones y enfermedades que les afectan de manera desproporcionada, con prioridad, en el VIH, las hepatitis virales y otras ITS.</li><li><strong>Incidir para que los Estados cumplan las recomendaciones de la ONUSIDA</strong> respecto a nuestra población clave de hombres gays latinos.</li><li><strong>Fortalecer las capacidades, conocimientos y liderazgos de hombres gays jóvenes latinos</strong> potenciando movimientos y espacios juveniles para incidir a nivel nacional y regional en la formulación, aplicación y seguimiento de políticas públicas.</li></p>"  
+        },  
+        "urlId": [
+            "villeta-2018"  
+        ],  
+        "visible": true,
+        "url": {
+            "es": "villeta-2018"
+        },
+        "tempId": "villeta-2018"
+    },
+    {  
+        "id": 3,  
+        "image": null,  
+        "region": "all",  
+        "country": "all",  
+        "title": {
+            "es": "Rosario 2017"
+        },  
+        "excerpt": {
+            "es": "Entre el 18 y el 20 de noviembre del 2017 tuvo lugar el tercer encuentro de la red en la ciudad de Rosario (Argentina) en la sede del Ministerio de Salud."
+        },  
+        "body": {
+            "es": "<p>Atención al VIH: Los activistas trabajaron en la elaboración de propuestas para presentar al Fondo mundial para la lucha contra el VIH, la tuberculosis y la malaria teniendo en cuenta la necesidad de la sostenibilidad ante el contexto internacional de retirada de dicho organismo de numerosos países. La red toma así la determinación de activar políticamente para que se dé seguimiento al tratamiento de las personas que viven con VIH en toda América Latina y el Caribe.</p><p>Innovaciones: La PrEP (profilaxis pre-exposición) fue también un punto importante de discusión y la red estimó importante hablar más de prevención combinada antes que solamente PrEP. </p><p>Comunidad: Los activistas mencionaron entre los propósitos el de bajar a tierra todos los cambios importantes en materia de DDHH y VIH, y hablar en términos sencillos, sin temer a hablar claramente de placer, culos y penes, y aprender de los jóvenes, quienes hoy están en las apps. </p><p>Venezuela: La situación crítica de Venezuela fue un punto importante en la discusión de los activistas. La crisis humanitaria en el país es un problema de inmensas proporciones debido al impacto en términos de atención al VIH y de derechos humanos para hombres gays. </p><p>En el 2017 la Red ha realizado diferentes acciones:<ul><li>GayLatino asistió a la reunión de líderes políticos LGBT en República Dominicana.</li><li>GayLatino expresó su preocupación en relación con la agenda contra los derechos durante la Asamblea General de la Organización de los Estados Americanos (OEA) en México.</li><li>Activistas de GayLatino asistieron a la Conferencia de Derechos Humanos durante la Cumbre Mundial del Orgullo en España.</li><li>El Grupo de referencia juvenil GayLatino lanzó su campaña # SexSalud2017 para el Día Mundial de la Salud Sexual. Con esta iniciativa los jóvenes de la red buscaron crear conciencia sobre el derecho a la salud sexual integral. </li><li>En septiembre, GayLatino y Grupo DIGNIDADE organizaron la primera capacitación de la Herramienta de Implementación de MSM (MSMIT) con el Dr. Rafael Mazin en Curitiba.</li><li>GayLatino Brasil también co-organizó el seminario “Construyendo sobre Acciones Estratégicas para la Plataforma Nacional por los Derechos Humanos y la Ciudadanía LGBTI+ en la Agenda Legislativa” apoyado por SOMOSGAY en Curitiba, con actividades y reuniones estratégicas durante la semana de lobby para LGBTI+ derechos en El Congreso Nacional de Brasil, en Brasilia.</li><li>GayLatino asistió al 3er Foro Latinoamericano sobre VIH en Haití, asumiendo el liderazgo en muchas de las discusiones y acciones de defensa lideradas por la comunidad.</li><li>GayLatino Brasil co-organizó la 22º Marcha del Orgullo en Río de Janeiro.</li><li>En Argentina la red se reunió y organizó acciones conjuntas a nivel regional con grupos locales.</li><li>GayLatino trabajó en su Plan Estratégico Institucional del 2017 y 2021 basado en 4 áreas programáticas:  <ol><li>Incidencia política para aumentar los recursos nacionales;</li><li>Apoyar a las organizaciones de poblaciones clave para movilizar recursos y trabajar en asociación;</li><li>Apoyar la reducción de las barreras estructurales al acceso a los servicios; y</li><li>Apoyar la disponibilidad de información estratégica.</li><ol></li><li>La Red así mismo estuvo trabajando en un Índice de Homofobia regional a presentar en los próximos años.</li></ul></p>"  
+        },  
+        "urlId": [
+            "rosario-2017"  
+        ],  
+        "visible": true,
+        "url": {
+            "es": "rosario-2017"
+        },
+        "tempId": "rosario-2017"         
+    },
+    {  
+        "id": 2,  
+        "image": null,  
+        "region": "all",  
+        "country": "all",  
+        "title": {
+            "es": "CDMX 2016"
+        },  
+        "excerpt": {
+            "es": "El 3 y 4 de noviembre de 2016 tuvo lugar el Segundo Encuentro Regional de GayLatino en CDMX, mientras que la Asamblea General se celebró los días 4 y 5 del mismo mes. Asistieron más de cien activistas gay latinos y de toda la región junto con representantes de ONUSIDA, UNFPA México y CONAPRED (México)."
+        },  
+        "body": {
+            "es": "<p>Los temas abordados en el encuentro fueron:<ul><li>“Matrimonio Igualitario: ¿Qué podemos aprender de las experiencias de Argentina, Brasil y Uruguay?” Por Esteban Paulón, vicepresidente de la Federación Argentina LGBT y subsecretario de Políticas de Diversidad Sexual, Gobierno de Santa Fe (Argentina), Andrés Scagliola, coordinador de la Secretaría de la Diversidad de la Intendencia de Montevideo (Uruguay) y Toni Reis, secretario de Educación GLBT y director ejecutivo del Grupo Dignidade Curitiba (Brasil).</li><li>“El renacer del conservadurismo e iglesias en la región y su impacto en los derechos LGBT” Por Jorge Pacheco, director general de la Liga Colombiana de lucha contra el Sida, Pablo Fracchia, DG Acceso a la Justicia del Ministerio Público de la Nación (Argentina) y vicepresidente de la Cruz Roja Argentina y Ricardo Hernández Forcada, director de Salud Sexual, Sexualidad y VIH de la Comisión Nacional de Derechos Humanos (México). Con Jorge Saavedra (México) como moderador y rap de William Hernández (El Salvador).</li><li>“La Homofobia y sus costos económicos, financieros y barreras a servicios”. Por José Antonio Izazola, jefe de Evaluación y Economía de ONUSIDA (México) y Rafael Mazín, activista en educación, salud sexual y derechos LGBT (México).  Con Jaime Parada, primer político abiertamente gay chileno, como moderador y relatoría a cargo de William Hernández (El Salvador). </li><li>“Salir del Clóset: Costos Personales, Sociales y Políticos”. A cargo de Benjamín Medrano, diputado federal (México),  Felipe Nájera, Secretario del Trabajo de la Asociación Nacional de Actores (México),  Alfonso Suárez Del Real, diputado de la VII Legislatura (México), Jaime Parada, concejal por Providencia (Chile). Con Edgardo Medina, defensor de derechos humanos de la población LGBT (Honduras) como moderador y relatoría a cargo de Giovanni Piermattei, presidente de AC Venezuela Igualitaria.</li><li>“Estigma: ¿es por tener VIH o por ser hombre que tiene sexo por otro hombre?”  Con Oswaldo Rada, vocero regional MSACV (Colombia),  William Hernández, director ejecutivo de Asociación Entre Amigos y miembro fundador de REDIVERSA Centroamérica (El Salvador), Gustavo Pecoraro, periodista, escritor, poeta, activista gay independiente (Argentina), Charlie Dos Veces López (Carlos López López), sociólogo, consultor para asuntos LGBTI de Conapred y bloguero (México).  Con Antonio Bertrán, periodista (México) como moderador y relatoría a cargo de Jaime Parada (Chile). </li><li>“Interseccionalidades y Sinergias”. Con Amaranta Gómez Regalado, antropóloga social y activista Muxe de derechos trans, indígenas y VIH (México), Ronald Céspedes, consejero directivo de GayLatino y activista gay (Bolivia), Isaí Vela Cox, activista gay con trabajo en hombres mayas que tienen sexo con hombres (Guatemala). </li><li>“Agencias internacionales ¿Están realmente interesadas y son sensibles al tema gay?”. Con Erika Castellanos, activista trans y de VIH, representante de LAC en la Junta Directiva de ONUSIDA (Belice), Simón Cazal, secretario general de GayLatino, presidente y fundador de SOMOSGAY y representante de ONGs LAC ante la Junta Directiva de ONUSIDA (Paraguay), Giovanni Piermattei, activista y presidente de AC Venezuela Igualitaria (Venezuela). Moderó Efraín Soria, activista gay y coordinador general de Fundación Ecuatoriana Equidad (Ecuador). </li><li>“¿Hay impacto de los proyectos del fondo mundial en hombres gay y otros hombres que tienen sexo con hombres?” Con Gustavo A. Valdes Pi, coordinador en Prevención VIH en Hombres que tienen sexo con Hombres y miembro del Comité Organizador de Jornadas Cubanas vs Homofobia (Cuba), Efraín Soria, activista gay (Ecuador), Norman Gutiérrez, sociólogo y director ejecutivo del Centro para Educación y Prevención del sida (CEPRESI) e integrante del primer movimiento de la diversidad sexual en Nicaragua. Con la moderación de Javier Arellano, coordinador del Grupo UNFPA ONUSIDA (México) y relatoría a cargo de Edgardo Medina, defensor de Derechos Humanos de la población LGBT en Honduras.</li><li>“PrEP ¿el fin de la epidemia del VIH para todos los hombres gay?”. Con Ricardo Baruch, activista e investigador en temas LGBTI, VIH y Salud Pública (México), Jerome Gelea, investigador visitante de la Escuela de Medicina de Harvard (EE.UU.), Ricardo Hernández Forcada, director de Salud, Sexualidad y VIH de la Comisión Nacional de Derechos Humanos (México). Con moderación a cargo de Anuar Luna, consultor independiente en Health Policy Initiative y coordinador de la Plataforma Regional LAC del Fondo Mundial de Lucha contra el VIH, la Tuberculosis y la Malaria. Relatoría de Oswaldo Rada (Colombia). </li><li>“¿Debemos promover que haya más políticos abiertamente gays?” con Esteban Paulón (Argentina), Jaime Parada (Chile) y Jaime López Vela, diputado constituyente de Ciudad de México. El moderador fue Carlos García de León Moreno, activista gay/ICASO/Foro Global de HSH/ Ave de México y la relatoría estuvo a cargo de Alex Vega, profesor en Trabajo Social y Consejería Universidad de Belice.</li><li>“Deporte y Homofobia ¿Por qué parecen ir de la mano?” Con Iván Lara, </li><li>Coordinador de Deporte de la DIDESEX AC (México), Rocío Lancaster de la Oficina de Visitantes para Convenciones de Guadalajara (México), Rafael Villanueva, Representante en México de International Gay and Lesbian Football Association (IGLFA). El moderador fue Genaro Lozano, escritor, activista y periodista (México) y la relatoría estuvo a cargo de Edgar Márquez, director de Atención a la Diversidad Sexual, Secretario de Gobierno del Estado de Morelos (México).</li><li>“¿Porque se debe incluir a los jóvenes gay en la políticas de VIH?” Con Diego Grajales, activista LGBT y de personas que viven con VIH (Belice), Jaime Luna, representante de Global Network of Young people with HIV, de REDCA, y Co-Chair de GNP+ (Panamá), Adolfo Ruiz, coordinador Juvenil en SOMOSGAY, representante de la comunidad de gays y otros HSH en MCP Paraguay. Moderó Pablo Fracchia (Argentina) con relatoría a cargo de Jorge Pacheco (Colombia).</li><li>“Homofobia y su impacto en salud, social y laboral”. Con Javier Arellano (México), Francisco Robledo,  Alianza por la diversidad (México), Edgardo Medina, defensor de Derechos Humanos de la población LGBT en Honduras.</li><li>“Bareback, chemsex y retos en la salud sexual” Con Alex Vega (Belice), Carlos García de León Moreno (México), Gustavo Pecoraro (Argentina), André Meré (Perú). Moderó Oswaldo Rada (Colombia) con relatoría a cargo de Pablo Alemán, presidente de Repavih (México).</li></ul></p>"  
+        },  
+        "urlId": [
+            "CDMX-2016"  
+        ],  
+        "visible": true,
+        "url": {
+            "es": "CDMX-2016"
+        },
+        "tempId": "CDMX-2016"
+    },
+    {  
+        "id": 1,  
+        "image": null,  
+        "region": "all",  
+        "country": "all",  
+        "title": {
+            "es": "Curitiba 2015"
+        },  
+        "excerpt": {
+            "es": "GayLatino fue creado en el primer encuentro que tuvo lugar del 18 al 20 de diciembre del 2015 en Curitiba (Brasil) con la presencia de más 60 de activistas de países como Argentina, Bolivia, Brasil, Chile, Colombia, Estados Unidos, Guatemala, México, Nicaragua Paraguay, Perú y Uruguay."
+        },  
+        "body": {
+           "es": "<p>En el primer encuentro también estuvieron presentes:<ul><li>Igo Martini, asesor de Derechos Humanos e Igualdad Racial de la Alcaldía de Curitiba.</li><li>Gil Casimiro del Departamento de Infecciones de Transmisión Sexual, Sida y Hepatitis Virales del Ministerio de Salud de Brasil.</li><li>Jorge Saavedra, embajador global de AHF.</li><li>Javier Arellano, asesor regional de ONUSIDA LAC.</li></ul></p><p>Durante tres días conversamos sobre temas relevantes para el activismo por los derechos de los gays latinos:<ul><li>“Situación de los derechos humanos de varones gays, bisexuales y otros HSH latinos: Avances y Retrocesos”, por Javier Arellano, asesor regional de ONUSIDA LAC.</li><li>“Costos de la homofobia y del VIH en Latinoamérica, Informe MEGAS (medición de gasto en sida)” José Antonio Izazola, jefe de División, Evaluación y Economía de ONUSIDA.</li><li>“Situación de los derechos humanos de varones gays, bisexuales en relación al acceso a salud” por el Dr. Rafael Mazin de la OPS. </li><li>”Situación de la epidemia del VIH” en Brasil por el Dr. Gil Casimiro.</li><li>“Experiencias de trabajo de respuesta al VIH y diversidad sexual” Francisco Do Santos, de la Secretaría de Salud del Estado de Paraná, Andrey Lemos de la UNA LGBT de Brasil, Igo Martin, Jorge Saavedra y Javier Arellano. </li><li>“Experiencias de activistas gays en partidos políticos de la región y en el mundo. ¿De dónde venimos, qué hicimos, hacia dónde vamos?” a cargo de Esteban Paulón, vicepresidente de la Federación Argentina LGBT (FALGBT), Pablo Fracchia de la Dirección Nacional de DDHH del Ministerio de Seguridad de Argentina, Andrés Scagliola, de la Intendencia de Montevideo, Gustavo Pecoraro, comunicador y activista independiente y Andrey Lemos.</li><li>“Buenas prácticas de Gobernanza en Organizaciones Gays de Sociedad Civil”, Rubén Mayorga, asesor principal en Gobernanza de ONUSIDA Ginebra.</li><li>\"¿Para qué estamos aquí y por qué es necesaria una red de hombres gays en LAC?\"  por Simón Cazal, Carlos García De León del MSMGF (México) y Jorge Saavedra.</li><li>”Presentación de experiencias exitosas a nivel comunitario para la construcción de redes. Experiencia exitosa en Curitiba: ‘A Hora É Agora’, con la participación de la Dra. Raquel Miranda del CDC Brasil, Beto De Jesúsde ILGA Worldy Esteban Paulón. </li><li>“Antecedentes de las masculinidades: diversidad y multiculturalidad” por André Mere y Ronald Céspedes</li><li>\"Una concepción afectiva del activismo\" por Gustavo Pecoraro</li><li>“La respuesta regional ante el VIH, las metas 90-90-90 y retos regionales” por Javier Arellano</li><li>“El Fondo Global y los varones gay en la región” por Sergio López y Jorge Saavedra, ambos delegados de América Latina y el Caribe ante la Junta del Fondo Mundial.</li></ul></p>"
+        },  
+        "urlId": [
+            "Curitiba-2015"  
+        ],  
+        "visible": true,
+        "url": {
+            "es": "Curitiba-2015"
+        } ,
+        "tempId": "Curitiba-2015"
+    }
+]

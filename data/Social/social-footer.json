@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "icon": "facebook",
+      "link": "https://www.facebook.com/redgaylatino"
+    },
+    {
+      "id": 2,
+      "icon": "instagram",
+      "link": "https://www.instagram.com/redgaylatino/"
+    },
+    {
+      "id": 3,
+      "icon": "twitter",
+      "link": "https://twitter.com/redgaylatino"
+    },
+    {
+      "id": 4,
+      "icon": "email",
+      "link": "mailto:contacto@redgaylatino.org"
+    }
+]  
